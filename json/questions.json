@@ -1,0 +1,3574 @@
+{
+  "functions": [
+    {
+      "id": 1,
+      "name": {
+        "az": "Performans Menecment Sisteminin Qiymətləndirilməsi",
+        "en": "Evaluation of the Performance Management System",
+        "ru": "Оценка системы управления эффективностью"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "az": "İşə qəbul, Seçim və Adaptasiya",
+        "en": "Talent Acquisition & Onboarding",
+        "ru": "Набор, отбор и адаптация"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "az": "İstedadların İdarəedilməsi",
+        "en": "Talent Management",
+        "ru": "Управление талантами"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "az": "Davamçıların İdarəedilməsi",
+        "en": "Succession Management",
+        "ru": "Управление преемственностью"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "az": "Vəzifə Dərəcələndirmə və Əmək haqqı sistemi",
+        "en": "Grading and Salary Management",
+        "ru": "Классификация должностей и управление заработной платой"
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "az": "Əmək Haqqı, Mükafatlandırma və İmtiyazlar ",
+        "en": "Compensation, Bonuses & Benefits Management",
+        "ru": "Управление компенсациями, бонусами и льготами"
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "az": "Öyrənmə və İnkişaf Sisteminin İdarəolunması",
+        "en": "Learning & Development Management",
+        "ru": "Управление обучением и развитием"
+      }
+    },
+    {
+      "id": 8,
+      "name": {
+        "az": "Karyera İdarəedilməsi Sistemi",
+        "en": "Career Management",
+        "ru": "Система управления карьерой"
+      }
+    },
+    {
+      "id": 9,
+      "name": {
+        "az": "Səriştəliklərin İdarəedilməsi Sistemi",
+        "en": "Competency Management System",
+        "ru": "Управление компетенциями"
+      }
+    },
+    {
+      "id": 10,
+      "name": {
+        "az": "İnsan Resurslarının Planlaşdırılması",
+        "en": "Workforce Planning",
+        "ru": "Планирование рабочей силы"
+      }
+    },
+    {
+      "id": 11,
+      "name": {
+        "az": "Daxili Kommunikasiya və İşçi Bağlılığı",
+        "en": "Internal Communication and Employee Engagement",
+        "ru": "Внутренняя коммуникация и вовлеченность сотрудников"
+      }
+    },
+    {
+      "id": 12,
+      "name": {
+        "az": "İnsan Resurslarının Strateji Məqsədlərə uyğunlaşdırılması",
+        "en": "Strategic Alignment of HR",
+        "ru": "Стратегическое соответствие HR"
+      }
+    },
+    {
+      "id": 13,
+      "name": {
+        "az": "İR-da əməliyyat çevikliyi",
+        "en": "Operational Agility in HR",
+        "ru": "Операционная гибкость в HR"
+      }
+    },
+    {
+      "id": 14,
+      "name": {
+        "az": "İnsan Resurslarında Risklərin İdarəedilməsi",
+        "en": "Risk Management in Human Resources",
+        "ru": "Управление рисками в области человеческих ресурсов"
+      }
+    },
+    {
+      "id": 15,
+      "name": {
+        "az": "İR-da Rəqəmsal Proqnozlaşdırma və Analitika",
+        "en": "Predictive HR Analytics",
+        "ru": "Прогностическая аналитика HR"
+      }
+    }
+  ],
+  "answers":[
+    {
+      "id": 1,
+      "name": {
+        "az": "Tətbiq edilmir",
+        "en": "Not Applicable",
+        "ru": "Не применяется"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "az": "Tətbiq edilməyib",
+        "en": "Not Implemented",
+        "ru": "Не реализовано"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "az": "Tətbiqə başlanıb, lakin tam deyil",
+        "en": "Partially Implemented",
+        "ru": "Частично реализовано"
+      }
+    }
+    ,
+    {
+      "id": 4,
+      "name": {
+        "az": "Tətbiq olunub və işləyir",
+        "en": "Implemented and Functioning",
+        "ru": "Реализовано и функционирует"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "az": "Sistemli və innovativ tətbiq var",
+        "en": "Systematic and Innovative Implementation",
+        "ru": "Систематическая и инновационная реализация"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "az": "Şirkətdə Korporativ Hədəflər mövcuddur",
+        "en": "Corporate goals are defined at the company level.",
+        "ru": "Корпоративные цели определены на уровне компании."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "az": "Üst rəhbərliyin performans hədəfləri mövcuddur.",
+        "en": "Performance goals are defined for senior management.",
+        "ru": "Для высшего руководства определены цели деятельности."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "question": {
+        "az": "Hədəflər şirkətin strategiyaları ilə uyğunlaşdırılmışdır.",
+        "en": "Corporate goals are aligned with the company’s strategic objectives.",
+        "ru": "Корпоративные цели согласованы со стратегическими целями компании."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "az": "Orta rəhbərliyin performans hədəfləri mövcuddur.",
+        "en": "Performance goals are defined for middle management.",
+        "ru": "Для среднего менеджмента определены цели деятельности."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 5,
+      "question": {
+        "az": "Bütün işçilərin performans hədəfləri mövcuddur.",
+        "en": "Performance goals are defined for all employees.",
+        "ru": "Определены цели деятельности для всех сотрудников."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 6,
+      "question": {
+        "az": "Autsors işçilərin performans hədəfləri mövcuddur.",
+        "en": "Performance goals are defined for outsourced staff.",
+        "ru": "Определены цели деятельности для аутсорсингового персонала."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 7,
+      "question": {
+        "az": "Üst rəhbərliyin hədəfləri şirkət hədəflərinin müəyyən bir hissəsini əhatə edir",
+        "en": "Senior management goals reflect a defined portion of the overall company Corporate goals.",
+        "ru": "Цели высшего руководства отражают определенную часть общих корпоративных целей компании."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 8,
+      "question": {
+        "az": "Orta rəhbərliyin hədəfləri şirkət hədəflərinin müəyyən bir hissəsini əhatə edir",
+        "en": "Middle management goals reflect a defined portion of the overall company Corporate goals.",
+        "ru": "Цели среднего менеджмента отражают определенную часть общих корпоративных целей компании."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 9,
+      "question": {
+        "az": "İşçilərin hədəfləri şirkət hədəflərinin müəyyən bir hissəsini əhatə edir",
+        "en": "Employee goals reflect a defined portion of the overall company Corporate goals.",
+        "ru": "Цели сотрудников отражают определенную часть общих корпоративных целей компании."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 10,
+      "question": {
+        "az": "Rəhbərliyin hədəflərində insan resurslarına dair göstəricilər mövcuddur",
+        "en": "HR-related indicators are included in the goals assigned to the management team.",
+        "ru": "В целях, поставленных перед руководящей командой, включены показатели, связанные с персоналом."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 11,
+      "question": {
+        "az": "Performansın idarə edilməsi üçün standart təqvim mövcuddur",
+        "en": "A standard calendar exists for the performance management process.",
+        "ru": "Существует стандартный календарь процесса управления эффективностью."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 12,
+      "question": {
+        "az": "İşçilərin KPI-ları onların rəhbərləri tərəfindən təsdiqlənir",
+        "en": "Employee KPIs are approved by their direct supervisors.",
+        "ru": "KPI сотрудников утверждаются их непосредственными руководителями."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 13,
+      "question": {
+        "az": "Bütün KPI-lar mərkəzi bir bölmə tərəfindən yoxlanılır",
+        "en": "All KPIs are reviewed and validated by a central function.",
+        "ru": "Все KPI проверяются и утверждаются центральной функцией."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 14,
+      "question": {
+        "az": "Yalnız SMART prinsipinə uyğun KPI-lar istifadə olunur",
+        "en": "Only KPIs based on the SMART principle are used.",
+        "ru": "Используются только KPI, основанные на принципе SMART."
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 15,
+      "question": {
+        "az": "Əsas səriştəliklər performans qiymətləndirməsinin bir hissəsidir",
+        "en": "Core competencies are part of the performance evaluation process.",
+        "ru": "Основные компетенции являются частью процесса оценки эффективности."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 16,
+      "question": {
+        "az": "Bütün menecerlər tabeliyində olanlarla performans dövrünün sonunda qiymətləndirmə görüşü keçirirlər",
+        "en": "All managers conduct end of performance period review meetings with their direct reports.",
+        "ru": "Все менеджеры проводят итоговые встречи по оценке эффективности с подчиненными."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 17,
+      "question": {
+        "az": "Bütün menecerlər performans dövrünün ortasında öz əməkdaşları ilə qiymətləndirmə görüşləri keçirirlər",
+        "en": "All managers hold mid-cycle performance review meetings with their employees.",
+        "ru": "Все менеджеры проводят встречи по оценке эффективности в середине цикла со своими сотрудниками."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 18,
+      "question": {
+        "az": "Performans qiymətləndirmə görüşləri strukturludur və yaxşı təşkil olunub",
+        "en": "Performance review meetings are structured and well-organized.",
+        "ru": "Встречи по оценке эффективности структурированы и хорошо организованы."
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 19,
+      "question": {
+        "az": "Yekun performans balı hədəflər və əsas səriştəliklərin qiymətləndirilməsinə əsasən müəyyən edilir",
+        "en": "Final performance scores are determined based on goals assessments and core competency evaluations.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 20,
+      "question": {
+        "az": "Son fəaliyyət göstəricisi yalnız hədəf qiymətləndirilməsi ilə müəyyən edilir",
+        "en": "Final performance results are determined solely based on goals assessments.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 21,
+      "question": {
+        "az": "Performans qiymətləndirilməsi üçün 4 və ya 5 ballıq şkala istifadə olunur",
+        "en": "Performance evaluations are conducted using either a 4- or 5-point rating scale.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 22,
+      "question": {
+        "az": "Performans nəticəsi əmək haqqı artımına təsir göstərir",
+        "en": "Performance results impact salary increases.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 23,
+      "question": {
+        "az": "Performans nəticəsi vəzifə yüksəlişlərinə təsir edir",
+        "en": "Performance results influence promotion decisions.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 24,
+      "question": {
+        "az": "Performans nəticəsi fərdi inkişaf və təlim planlarına təsir göstərir",
+        "en": "Performance results affect individual development and training plans.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 25,
+      "question": {
+        "az": "Performans nəticəsi digər insan resursları proseslərinə təsir edir",
+        "en": "Performance results impact other HR processes.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 26,
+      "question": {
+        "az": "Performans idarəetmə prosesi mərkəzi İR proqram təminatı vasitəsilə idarə olunur",
+        "en": "The performance management process is managed through a centralized HR software system.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 27,
+      "question": {
+        "az": "Performans idarəetmə prosesi Word / Excel / lokal həllər vasitəsilə idarə olunur",
+        "en": "The performance management process is managed through Word, Excel, or other local tools.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 28,
+      "question": {
+        "az": "“360 dərəcə” qiymətləndirmə üst rəhbərlik üçün istifadə olunur",
+        "en": "360-degree feedback program is used for senior management.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 29,
+      "question": {
+        "az": "“360 dərəcə” qiymətləndirmə orta rəhbərlik üçün istifadə olunur",
+        "en": "360-degree feedback program is used for middle management.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 30,
+      "question": {
+        "az": "“360 dərəcə” qiymətləndirmə digər işçilər üçün istifadə olunur",
+        "en": "360-degree feedback program is used for other employees.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 31,
+      "question": {
+        "az": "Yuxarı rəhbərlik tərəfindən təsdiqlənmiş performans idarəetmə proseduru mövcuddur",
+        "en": "A performance management policy/procedure approved by top management exists.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 32,
+      "question": {
+        "az": "Bütün işçilər performans idarəetmə prosedurundan xəbərdardır",
+        "en": "All employees are aware of the performance management policy/procedure.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 33,
+      "question": {
+        "az": "Performans idarəetmə proseduru bütün işçilər üçün açıq və əlçatandır",
+        "en": "The performance management policy is accessible to all employees at any time.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 34,
+      "question": {
+        "az": "Performans idarəetməsi həmişə idarəetmə gündəliyində yüksək prioritetə ​​malikdir",
+        "en": "Performance management is consistently prioritized in the management agenda.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 35,
+      "question": {
+        "az": "Biznes prosesləri struktur bölmələrinin performansını dəstəkləyəcək şəkildə qurulmuşdur",
+        "en": "Business processes are structured to support the performance of organizational units.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 36,
+      "question": {
+        "az": "Rəhbər heyətin işə qəbulu zamanı qiymətləndirmə mərkəzi yanaşmasından istifadə olunur.",
+        "en": "An assessment center approach is used for the recruitment of senior leadership roles.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 37,
+      "question": {
+        "az": "Rəhbər heyətin işə qəbulu zamanı şəxsiyyət profili testləri tətbiq olunur.",
+        "en": "Personality profile tests are applied during the recruitment of senior leaders.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 38,
+      "question": {
+        "az": "Bütün vakansiyalar üzrə işə qəbul zamanı şəxsiyyət profili testləri istifadə olunur.",
+        "en": "Personality profile tests are used for all recruitment positions.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 39,
+      "question": {
+        "az": "Namizədlərin peşə bilikləri, bacarıqları və texniki bilgilərini ölçmək üçün testlər tətbiq olunur.",
+        "en": "Tests are conducted to evaluate candidates’ professional skills, competencies, and technical knowledge.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 40,
+      "question": {
+        "az": "Zərurət olduqda xarici dil biliklərini ölçmək üçün testlərdən istifadə olunur.",
+        "en": "Foreign language proficiency tests are applied when required.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 41,
+      "question": {
+        "az": "İşə qəbul prosesində səriştəlik əsaslı müsahibə yanaşmasından istifadə olunur.",
+        "en": "Competency-based interview techniques are used in the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 42,
+      "question": {
+        "az": "Rəhbər heyət iş görüşməsi (müsahibə) bacarıqları üzrə təlim almışdır.",
+        "en": "Hiring managers have received training on interview skills.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 43,
+      "question": {
+        "az": "Üst rəhbərlik səviyyəsindəki vakansiyalar üçün namizəd axtarışı zamanı işəgötürmə agentliklərin dəstəyindən istifadə olunur.",
+        "en": "External search partners or recruitment agencies are used for senior-level vacancies.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 44,
+      "question": {
+        "az": "İşə qəbul elanları işəgötürmə üzrə agentliklər vasitəsilə də yayımlanır.",
+        "en": "Job advertisements are also posted through recruitment agencies.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 45,
+      "question": {
+        "az": "Namizədlərlə keçirilən müsahibələrin nəticələri və qeydləri məlumat bazasında qeyd olunur.",
+        "en": "Interview notes and evaluations are recorded in a centralized database.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 46,
+      "question": {
+        "az": "Bütün daxil olan CV-lər elektron məlumat bazasında saxlanılır.",
+        "en": "All received CVs are stored in a digital database.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 47,
+      "question": {
+        "az": "LinkedIn platformasından işə qəbul məqsədilə istifadə olunur.",
+        "en": "The LinkedIn platform is actively used for recruitment.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 48,
+      "question": {
+        "az": "Namizədin əvvəlki işəgötürəni ilə arayış (reference check) yoxlaması həyata keçirilir.",
+        "en": "Reference checks with previous employers are conducted during the hiring process.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 49,
+      "question": {
+        "az": "Müsahibədən keçməyən bütün namizədlərə nəticə barədə e-poçt,telefon və ya digər platformalar vasitəsilə məlumat verilir.",
+        "en": "All unsuccessful candidates are notified via email,phone or other platforms.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 50,
+      "question": {
+        "az": "Bütün iş təklifləri üçün standart iş təklifi formalarından istifadə olunur.",
+        "en": "Standard job offer templates are used for all offers.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 51,
+      "question": {
+        "az": "Yazılı işə qəbul siyasəti/proseduru mövcuddur və istifadə olunur.",
+        "en": "A written recruitment policy/procedure exists and is followed.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 52,
+      "question": {
+        "az": "İşə qəbul prosesinə dair hədəflər mövcuddur və izlənilir.",
+        "en": "Goals related to recruitment are defined and monitored.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 53,
+      "question": {
+        "az": "Yeni işə qəbul olunanlar işə götürüldükdən sonra müəyyən dövr ərzində onların bağlılıq və inteqrasiya səviyyəsi izlənilir",
+        "en": "New hires are monitored for a period after hiring to assess engagement and integration.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 54,
+      "question": {
+        "az": "Yeni işçilərin işə başladıqdan sonrakı performansı müəyyən müddət ərzində izlənilir.",
+        "en": "New employees’ performance is tracked during an initial period post-hiring.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 55,
+      "question": {
+        "az": "Təşkilatda müəyyən olunmuş strukturlaşdırılmış oriyentasiya və uyğunlaşma prosesi mövcuddur.",
+        "en": "A structured onboarding and orientation process is in place.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 56,
+      "question": {
+        "az": "Namizədlərin işə qəbul prosesi ilə bağlı təcrübə və məmnunluğunu ölçmək üçün geri bildirim alətləri və metodları mövcuddur.",
+        "en": "Tools and methods are in place to gather candidate feedback and assess satisfaction with the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 57,
+      "question": {
+        "az": "İşə qəbul prosesi zamanı bərabər imkanların təmin olunması və qərəzsiz seçim üçün prosedurlar tətbiq olunur.",
+        "en": "Procedures are in place to ensure equal opportunity and unbiased decision-making during the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 58,
+      "question": {
+        "az": "Əməkdaşlar şirkətdən ayrılarkən onlarla çıxış müsahibəsi keçirilir.",
+        "en": "Exit interviews are conducted with employees when they leave the company",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 59,
+      "question": {
+        "az": "İşə qəbul prosesi üzrə göstəricilər (məs., vaxt, namizəd keyfiyyəti, rədd faizi və s.) izlənilir və mütəmadi hesabatlar hazırlanır.",
+        "en": "Recruitment metrics (e.g., time-to-fill, candidate quality, rejection rates) are tracked and reported regularly.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 60,
+      "question": {
+        "az": "Vakansiyalar üçün daxili namizədlərin dəyərləndirilməsi və işçi rotasiyası təşviq olunur.",
+        "en": "Internal candidates are considered for open positions, and employee rotation is encouraged where applicable.",
+        "ru": ""
+      },
+      "function_id": 2,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 61,
+      "question": {
+        "az": "Təşkilatda təşkilati davamlılığı təmin etmək üçün talant idarəetmə sistemi tətbiq olunur.",
+        "en": "A talent management system is implemented to ensure organizational continuity.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 62,
+      "question": {
+        "az": "Talant idarəetmə sistemi bütün işçilər üçün əlçatandır və tətbiq olunur.",
+        "en": "The talent management system is applied to all employees.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 63,
+      "question": {
+        "az": "Talant idarəetmə prosesi şəffafdır və işçilər tərəfindən tanınır və başa düşülür.",
+        "en": "The talent management process is transparent and recognized by employees.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 64,
+      "question": {
+        "az": "Talant seçimində istifadə olunan aydın və spesifik istedad profili və tərifi mövcuddur.",
+        "en": "A clear talent definition and selection profile is in place.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 65,
+      "question": {
+        "az": "Menecerlər üçün strukturlaşdırılmış talant hovuzu formalaşdırılıb.",
+        "en": "A structured talent pool exists for managerial roles.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 66,
+      "question": {
+        "az": "Mütəxəssis və ekspert səviyyəsində işçilər üçün ayrıca talant hovuzu mövcuddur.",
+        "en": "A separate talent pool exists for specialist and expert-level roles.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 67,
+      "question": {
+        "az": "Şirkətdə talantların müəyyənləşdirilməsi və seçilməsi üçün sistemli yanaşma tətbiq olunur.",
+        "en": "A systematic approach is used for identifying and selecting talents.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 68,
+      "question": {
+        "az": "İstedadların inkişaf ehtiyacları müəyyənləşdirilir və fərdi inkişaf planları hazırlanır.",
+        "en": "Development needs of identified talents are assessed and individual development plans are created.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 69,
+      "question": {
+        "az": "Talantlar üçün xüsusi öyrənmə və inkişaf proqramları mövcuddur və həyata keçirilir.",
+        "en": "Specific learning and development programs exist for talent pool members.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 70,
+      "question": {
+        "az": "İstedadların şirkətdə qalması üçün xüsusi maddi motivasiya proqramları tətbiq olunur.",
+        "en": "Financial retention programs are in place for key talents.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 71,
+      "question": {
+        "az": "Talantların saxlanması üçün qeyri-maddi motivasiya vasitələri (tanınma, öyrənmə imkanları və s.) mövcuddur.",
+        "en": "Non-financial retention programs (e.g., recognition, growth opportunities) exist to retain talent.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 72,
+      "question": {
+        "az": "Şirkətdəki əsas vakansiyalar üzrə daxili namizəd olaraq ilk olaraq talantlar dəyərləndirilir.",
+        "en": "Internal talents are prioritized for key vacancies within the company.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 73,
+      "question": {
+        "az": "Talantlar vəzifə yüksəlişi zamanı əsas namizəd qrupuna daxildirlər.",
+        "en": "Talents are considered primary candidates for promotion.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 74,
+      "question": {
+        "az": "Universitetlərlə əməkdaşlıq çərçivəsində gənc talantların cəlbi üçün proqram mövcuddur.",
+        "en": "A young talent program is run in collaboration with universities.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 75,
+      "question": {
+        "az": "İşdən ayrılan işçilərlə ayrılma müsahibələri aparılır və nəticələr təhlil olunur.",
+        "en": "Exit interviews are conducted with departing employees and results are analyzed.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 76,
+      "question": {
+        "az": "Talant idarəetməsi ilə bağlı KPI-lar (daxili təşviq, saxlanma, dövriyyə və s.) izlənilir.",
+        "en": "Talent management KPIs (e.g., internal promotion rate, retention rate, talent turnover) are tracked.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 77,
+      "question": {
+        "az": "Talant bazası mütəmadi olaraq yenilənir və analiz olunur.",
+        "en": "The talent pool is regularly updated and analyzed.",
+        "ru": ""
+      },
+      "function_id": 3,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 78,
+      "question": {
+        "az": "Üst rəhbərliyin davamçıları üçün sistemli və yazılı planlama yanaşması mövcuddur.",
+        "en": "A structured and documented succession planning approach exists for senior leadership.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 79,
+      "question": {
+        "az": "Üst rəhbərliyin hədəflərində “davamçıların hazırlanması” göstəricisi mövcuddur.",
+        "en": "Senior leaders have goals related to the development of successors.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 80,
+      "question": {
+        "az": "Təşkilatda kritik vəzifələr üçün davamçı planlaması sistemli şəkildə aparılır.",
+        "en": "Succession planning is conducted for all identified critical positions.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 81,
+      "question": {
+        "az": "Davamçılar mütəmadi olaraq rəhbərlik tərəfindən qiymətləndirilir və nəticələr sənədləşdirilir.",
+        "en": "Successors are regularly evaluated by top management and results are documented.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 82,
+      "question": {
+        "az": "Davamçı seçimi üçün spesifik seçim metodologiyası və ya qiymətləndirmə alətləri istifadə olunur.",
+        "en": "A defined methodology or assessment tools are used.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 83,
+      "question": {
+        "az": "Hər davamçı üçün fərdi inkişaf proqramı hazırlanır və izlənilir.",
+        "en": "Each successor has an individualized development plan that is implemented and monitored.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 84,
+      "question": {
+        "az": "Üst rəhbərliyin davamçıları üçün mentor və/və ya kouç dəstəyi təmin olunur.",
+        "en": "Mentors and/or coaches are assigned to successors of top leadership roles.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 85,
+      "question": {
+        "az": "Daxili davamçı mövcud deyilsə, “Kənardan Davamçılar” strategiyası tətbiq olunur.",
+        "en": "An “External Successors” strategy is implemented if internal successors are unavailable.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 86,
+      "question": {
+        "az": "Davamçılar üçün motivasiya və saxlanma proqramları həyata keçirilir.",
+        "en": "Retention and motivation programs are in place for successors.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 87,
+      "question": {
+        "az": "Şirkətdə bütün kritik vəzifələr müəyyən olunub və sənədləşdirilib.",
+        "en": "All critical roles within the organization have been identified and documented.",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 88,
+      "question": {
+        "az": "Davamçılıq planlaması üçün istifadə olunan göstəricilər izlənilir (planlaşdırılmış vs. faktiki əvəzetmə nisbəti və s.).",
+        "en": "Succession indicators are tracked (e.g., planned vs. actual replacement rates).",
+        "ru": ""
+      },
+      "function_id": 4,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 89,
+      "question": {
+        "az": "Təşkilatda vəzifə dərəcələndirmə sistemi mövcuddur.",
+        "en": "A job grading system is implemented in the organization.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 90,
+      "question": {
+        "az": "Vəzifə dərəcələrmə sisteminə əsaslanan əmək haqqı strukturu tətbiq olunur.",
+        "en": "A pay structure based on job grades is applied.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 91,
+      "question": {
+        "az": "Şirkət üzrə vəzifələrin, o cümlədən üst rəhbərliyin dərəcələndirilməsi müvafiq maraqlı tərəflərin iştirakı ilə həyata keçirilir.",
+        "en": "The grading of all positions, including top management roles, is conducted with the involvement of relevant internal stakeholders.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 92,
+      "question": {
+        "az": "Vəzifə dərəcələndirməsi menecerlərin iştirakı ilə həyata keçirilir.",
+        "en": "Job grading is conducted with input from line managers.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 93,
+      "question": {
+        "az": "Dərəcə və əmək haqqı strukturu dövri olaraq nəzərdən keçirilir və yenilənir.",
+        "en": "The grade and salary structure is reviewed and updated periodically.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 94,
+      "question": {
+        "az": "Karyera pillələri və vəzifə titulları dərəcə strukturu ilə uyğunlaşdırılıb.",
+        "en": "Career levels and job titles are aligned with the grade structure.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 95,
+      "question": {
+        "az": "İnsan Resursları komandası dərəcələndirmə sistemi üzrə təlim alıb.",
+        "en": "The HR team has received training on the job grading methodology.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 96,
+      "question": {
+        "az": "Menecerlər dərəcələndirmə sistemi haqqında məlumatlıdırlar və təlim alıblar.",
+        "en": "Managers are aware of and trained on the grading system.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 97,
+      "question": {
+        "az": "Dərəcə və əmək haqqı strukturu şəffafdır və işçilərə açıqlanıb.",
+        "en": "The grade and pay structure is transparent and communicated to employees.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 98,
+      "question": {
+        "az": "Vəzifə dərəcələndirmə nəticələri işə qəbul, maaş artımı və mükafat qərarlarında aktiv istifadə olunur.",
+        "en": "Job grading outcomes are actively used in recruitment, salary adjustments, and bonus decisions.",
+        "ru": ""
+      },
+      "function_id": 5,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 99,
+      "question": {
+        "az": "Strukturlaşdırılmış və Vəzifə dərəcələndirməsinə əsaslanan əməkhaqqı sistemi mövcuddur",
+        "en": "A structured and grade-based salary system is in place.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 100,
+      "question": {
+        "az": "Standart əmək haqqı idarəetmə siyasəti mövcuddur və düzgün tətbiq olunur.",
+        "en": "A standard salary administration policy exists and is properly implemented.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 101,
+      "question": {
+        "az": "Əmək haqqı strukturu vəzifə dərəcələndirməsinə əsaslanaraq hazırlanmışdır.",
+        "en": "The salary structure is developed based on the job grading system.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 102,
+      "question": {
+        "az": "Hər il əmək haqqı bazar müqayisələri aparılır və struktur müvafiq olaraq yenilənir.",
+        "en": "Annual market benchmarking is conducted and salary structures are updated accordingly.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 103,
+      "question": {
+        "az": "İllik əmək haqqı artımları planlı şəkildə həyata keçirilir.",
+        "en": "Salary increases are implemented regularly on an annual basis.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 104,
+      "question": {
+        "az": "Əmək haqqı artımı büdcəsi hazırlanarkən inflyasiya səviyyəsi nəzərə alınır.",
+        "en": "Inflation rates are considered during salary budgeting.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 105,
+      "question": {
+        "az": "Bazar mövqeyi və müqayisə nəticələri əmək haqqı artımı zamanı əsas götürülür.",
+        "en": "Market positioning and benchmarking data are considered when planning the salary budget.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 106,
+      "question": {
+        "az": "Vəzifə dəyişikliklərinə görə maaş tənzimləmələri planlama zamanı nəzərə alınır.",
+        "en": "Role changes and related adjustment needs are taken into account during salary budgeting.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 107,
+      "question": {
+        "az": "Fərdi maaş artımlarında bazar meyarları nəzərə alınır.",
+        "en": "Market benchmarks are considered during individual salary adjustments.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 108,
+      "question": {
+        "az": "Performans nəticələri fərdi maaş artımına təsir göstərir.",
+        "en": "Performance results are factored into individual salary increases.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 109,
+      "question": {
+        "az": "Maaş artımı həyata keçirilməzdən əvvəl simulyasiya/proqnozlaşdırma aparılır.",
+        "en": "Salary increase simulations are conducted prior to implementation.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 110,
+      "question": {
+        "az": "Menecerlər əmək haqqı sistemi və maaş artımı mexanizmi haqqında məlumatlıdır.",
+        "en": "Managers are knowledgeable about the salary system.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 111,
+      "question": {
+        "az": "Rəhbərlər maaş artımı qərarlarında fəal iştirak edirlər.",
+        "en": "Managers actively participate in the salary increase process.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 112,
+      "question": {
+        "az": "Rəhbərlərə və işçilərə maaş artımı prosesi barədə rəsmi şəkildə məlumat verilir.",
+        "en": "All managers and employees are informed about the salary increase process.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 113,
+      "question": {
+        "az": "HR və ya rəhbərlər əmək haqqı artım templəri haqqında işçiləri məlumatlandırır.",
+        "en": "Managers and/or HR communicate salary adjustment patterns to employees.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 114,
+      "question": {
+        "az": "Rəhbər heyət əmək haqqının idarə olunması prosesi üzrə təlim almışdır.",
+        "en": "Senior management has received training on compensation management processes.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 115,
+      "question": {
+        "az": "İşçilərin imtiyazları dərəcə strukturlarına əsasən müəyyən olunur.",
+        "en": "Employee benefits are structured based on job grading.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 116,
+      "question": {
+        "az": "Eyni statusa sahib işçilərə eyni imtiyazlar təqdim olunur.",
+        "en": "Employees at the same level receive equal benefits.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 117,
+      "question": {
+        "az": "Hər il imtiyazlarla bağlı bazar araşdırmaları aparılır.",
+        "en": "Annual market analysis is conducted for employee benefits.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 118,
+      "question": {
+        "az": "Bütün xarici vətəndaşları əhatə edən rəsmi siyasət mövcuddur.",
+        "en": "A defined policy exists for all expatriates.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 119,
+      "question": {
+        "az": "Eyni vəzifə kateqoriyasına aid xarici vətəndaşlara eyni üstünlüklər tətbiq olunur.",
+        "en": "Expatriates in the same role category receive equal benefits per policy.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 120,
+      "question": {
+        "az": "Xarici vətəndaşların əmək haqqısı vəzifə dərəcələndirmə və beynəlxalq təcrübəyə əsaslanır.",
+        "en": "Expatriate compensation is managed based on job grades and global best practices.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 121,
+      "question": {
+        "az": "İllik performansa əsaslanan bonus siyasəti mövcuddur.",
+        "en": "An annual performance-based bonus policy is in place.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 122,
+      "question": {
+        "az": "Üst rəhbərlik performans nəticələrinə əsasən bonus alır.",
+        "en": "Senior leadership receives annual performance bonuses in line with company policy.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 123,
+      "question": {
+        "az": "Bütün işçilər müəyyən edilmiş siyasətə uyğun performans bonusu alır.",
+        "en": "All employees receive annual performance bonuses in accordance with the policy.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 124,
+      "question": {
+        "az": "Bonuslar dərəcəyə və/və ya vəzifə kateqoriyalarına əsasən hesablanır.",
+        "en": "All performance bonuses are calculated based on standard schemes linked to grade or role category.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 125,
+      "question": {
+        "az": "Bonus hesablaması sistematik şəkildə aparılır.",
+        "en": "The performance bonus calculation process is systematized.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 126,
+      "question": {
+        "az": "Bonus hesablaması şəffaf və izah edilə biləndir.",
+        "en": "The calculation of annual performance bonuses is transparent.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 127,
+      "question": {
+        "az": "Bonus strukturu üzrə hər il bazar müqayisəsi edilir.",
+        "en": "Annual market research is conducted regarding performance bonus schemes.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 128,
+      "question": {
+        "az": "Sistemli satış təşviqli bonus siyasətləri mövcuddur.",
+        "en": "A structured sales incentive bonus policy exists.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 129,
+      "question": {
+        "az": "Satış bonusları dərəcəyə və ya vəzifəyə əsaslanır.",
+        "en": "Sales bonuses are based on grade or role category.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 130,
+      "question": {
+        "az": "Satış bonus sistemi şəffafdır.",
+        "en": "The sales incentive system is transparent.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 131,
+      "question": {
+        "az": "Satış təşviqləri ilə bağlı illik bonus bazar araşdırmaları aparılır.",
+        "en": "Annual market benchmarking is conducted for sales incentives.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 132,
+      "question": {
+        "az": "Yeni işə qəbul olunanların əmək haqları daxili struktura və dərəcələrə uyğunlaşdırılır.",
+        "en": "New hire salaries are aligned with internal compensation structures and job grades.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 133,
+      "question": {
+        "az": "İmtiyaz və faydalar siyasəti yazılı şəkildə mövcuddur və tətbiq olunur.",
+        "en": "A written compensation and benefits policy exists.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 134,
+      "question": {
+        "az": "Əmək haqqı və bonus strukturu üzrə gender, vəzifə səviyyəsi və departament üzrə ödəniş bərabərliyi analizi aparılır.",
+        "en": "Pay equity analysis is conducted across gender, position levels, and departments.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 135,
+      "question": {
+        "az": "Fərdi əmək haqqı qərarlarında menecerlər üçün qərarvermə alətləri (pay band guidance, range analysis) mövcuddur.",
+        "en": "Tools (e.g., pay band guidelines, range positioning analysis) are provided to managers for informed compensation decisions.",
+        "ru": ""
+      },
+      "function_id": 6,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 136,
+      "question": {
+        "az": "Öyrənmə və inkişaf üçün sistematik yanaşma tətbiq olunur.",
+        "en": "A systematic approach exists for planning learning and development activities.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 137,
+      "question": {
+        "az": "Öyrənmə və inkişaf büdcəsinin hazırlanması üçün strukturlaşdırılmış metod mövcuddur.",
+        "en": "A structured method is used to plan the learning and development budget.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 138,
+      "question": {
+        "az": "Təlim ehtiyaclarının qiymətləndirilməsi üçün sistemli yanaşma tətbiq olunur.",
+        "en": "A systematic approach is applied for assessing training needs.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 139,
+      "question": {
+        "az": "Təlim ehtiyacları korporativ hədəflərlə əlaqələndirilir.",
+        "en": "Training needs assessments are aligned with corporate goals.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 140,
+      "question": {
+        "az": "Liderlik bacarıqları üzrə qiymətləndirmə nəticələri təlim planlamasına təsir edir.",
+        "en": "Leadership competency assessment results are used to identify development needs.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 141,
+      "question": {
+        "az": "Əsas səriştəliklərə əsaslanan təlim ehtiyaclarının müəyyənləşdirilməsi aparılır.",
+        "en": "Core competency assessments are used to identify training needs.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 142,
+      "question": {
+        "az": "Üst rəhbərlik üçün Liderlik inkişaf proqramı mövcuddur.",
+        "en": "A leadership development program is available for top management.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 143,
+      "question": {
+        "az": "Bütün rəhbərlər üçün Liderlik proqramı mövcuddur.",
+        "en": "A leadership program exists for all managerial levels.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 144,
+      "question": {
+        "az": "Gələcək potensial rəhbərlər üçün ayrıca Liderlik proqramı təşkil olunur.",
+        "en": "A leadership program is in place for future/potential leaders.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 145,
+      "question": {
+        "az": "Beynəlxalq təlim və forumlarda iştirak üçün sistemli yanaşma tətbiq olunur.",
+        "en": "A structured approach is used to participate in international trainings, conferences, and forums.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 146,
+      "question": {
+        "az": "Yerli təlim və forumlarda iştirak sistemli şəkildə planlaşdırılır.",
+        "en": "A structured approach is also used for participation in local trainings and events.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 147,
+      "question": {
+        "az": "Təlimdən əvvəl və sonra effektivliyin ölçülməsi həyata keçirilir.",
+        "en": "Pre- and post-training evaluations are systematically conducted.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 148,
+      "question": {
+        "az": "Öyrənmə və inkişaf fəaliyyətlərinin ROI-si hesablanır və izlənilir.",
+        "en": "ROI of learning and development activities is calculated and monitored.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 149,
+      "question": {
+        "az": "Yeni işçilər üçün ətraflı oriyentasiya proqramı mövcuddur.",
+        "en": "A detailed multi-day orientation program is provided to all new hires.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 150,
+      "question": {
+        "az": "Yeni rəhbərlər üçün ayrıca oriyentasiya proqramı təşkil olunur.",
+        "en": "A special orientation program exists for newly appointed managers.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 151,
+      "question": {
+        "az": "Əsas funksiyalarda olan vəzifələr üçün xüsusi hazırlanmış inkişaf proqramları mövcuddur",
+        "en": "Specially designed development programs are in place for positions within core functions.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 152,
+      "question": {
+        "az": "İşçilər üçün sertifikatlaşdırma və kvalifikasiya artırma imkanları planlaşdırılır.",
+        "en": "Certification and qualification programs are planned for employees.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 153,
+      "question": {
+        "az": "Rəhbərlər üçün MBA və digər ali təhsil proqramlarına sistemli yanaşma tətbiq olunur.",
+        "en": "A structured approach is in place for supporting MBAs and higher education for managers.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 154,
+      "question": {
+        "az": "İşçilərə ali təhsillə bağlı inkişaf dəstəyi verilir.",
+        "en": "Support is provided to employees for qualification advancement through higher education.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 155,
+      "question": {
+        "az": "Daxili təlimçilər proqramı mövcuddur.",
+        "en": "An internal trainer program is established.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 156,
+      "question": {
+        "az": "Daxili təlimlər və təlimçilər sistematik şəkildə qiymətləndirilir.",
+        "en": "Internal training activities and trainers are regularly evaluated.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 157,
+      "question": {
+        "az": "Daxili təlimçilərin tanınması və mükafatlandırılması üçün struktur yanaşma mövcuddur.",
+        "en": "A structured recognition and reward system exists for internal trainers.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 158,
+      "question": {
+        "az": "Daxili mentor proqramı mövcuddur.",
+        "en": "An internal mentoring program is available.",
+        "ru": ""
+      },
+      "function_id": 1,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 159,
+      "question": {
+        "az": "Onlayn təlimlər bütün işçilər üçün əlçatandır və istifadə olunur.",
+        "en": "Online learning platforms are available and used by all employees.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 160,
+      "question": {
+        "az": "Öyrənmə və inkişaf üçün korporativ hədəflər müəyyən edilmişdir.",
+        "en": "Corporate goals are defined for monitoring learning and development efforts.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 161,
+      "question": {
+        "az": "Öyrənmə və inkişaf sistemi karyera idarəedilməsi, istedadların idarə olunması və davamçıların planlaması ilə inteqrasiya olunub.",
+        "en": "The learning and development process is integrated with career planning, talent management, and succession planning.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 162,
+      "question": {
+        "az": "İşçilərə fərdi maraqlarına uyğun təlim almaq imkanı təqdim olunur (məs., onlayn kitabxanalar, seminarlar və s.).",
+        "en": "Employees are encouraged to take trainings based on personal interests and growth (e.g., online libraries, free seminars, hobby courses).",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 163,
+      "question": {
+        "az": "Təlim nəticələri fərdi performans və karyera planlarına təsir edir və izlənilir.",
+        "en": "Training outcomes are tracked and linked to individual performance and career development plans.",
+        "ru": ""
+      },
+      "function_id": 7,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 164,
+      "question": {
+        "az": "Vəzifə dəyişikliyi üçün sistemli və rəsmi bir proses mövcuddur.",
+        "en": "A formal and structured career progression process is in place.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 165,
+      "question": {
+        "az": "Vəzifə dəyişikliyi prosesi şəffafdır və işçilər bu sistem barədə məlumatlıdır.",
+        "en": "The career management process is transparent, and all employees are informed.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 166,
+      "question": {
+        "az": "Bütün rəhbərlər vəzifə dəyişikliyi prosesindən məlumatlıdır və prosesdə iştirak edir.",
+        "en": "All managers are informed about the career transition process and actively participate in it.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 167,
+      "question": {
+        "az": "Vəzifə dəyişikliyi işçinin artan məsuliyyət və öhdəlikləri əsasında həyata keçirilir.",
+        "en": "Career progression is based on expanded roles and responsibilities, not just qualifications.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 168,
+      "question": {
+        "az": "Mütəxəssisdən rəhbər vəzifəsinə keçid üçün ayrıca qiymətləndirmə prosesi mövcuddur.",
+        "en": "A dedicated assessment process exists for transitions from specialist to managerial roles.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 169,
+      "question": {
+        "az": "Potensiallı istedadlar vakant rəhbər vəzifələr üçün ilkin namizəd kimi nəzərə alınır.",
+        "en": "High-potential talents are prioritized for vacant managerial positions.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 170,
+      "question": {
+        "az": "Vəzifə dəyişikliyi imtiyaz və əmək haqqı strukturu ilə əlaqələndirilir.",
+        "en": "Career changes are aligned with compensation and benefits policies.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 171,
+      "question": {
+        "az": "Vəzifə dəyişikliyindən sonra uyğun təlimlər dərhal təmin olunur.",
+        "en": "Employees receive timely training after a role change.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 172,
+      "question": {
+        "az": "Yeni vəzifəyə keçən işçilər üçün uyğunlaşdırılmış oriyentasiya keçirilir.",
+        "en": "Orientation is provided for employees transitioning into new roles.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 173,
+      "question": {
+        "az": "Vəzifə dəyişiklikləri zamanı dərəcə strukturları nəzərə alınır.",
+        "en": "Grade structure is taken into account during career transitions.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 174,
+      "question": {
+        "az": "Vəzifə dəyişikliyi qərarlarında İR və rəhbərlik birgə qərar verir.",
+        "en": "Career movement decisions are jointly made by HR and line managers.",
+        "ru": ""
+      },
+      "function_id": 8,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 175,
+      "question": {
+        "az": "Əsas səriştəliklər bütün işçilər üçün müəyyən edilmişdir.",
+        "en": "Core competencies (values-based) are defined for all employees.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 176,
+      "question": {
+        "az": "İşə qəbul zamanı əsas səriştəliklər nəzərə alınır.",
+        "en": "Core competencies are applied in the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 177,
+      "question": {
+        "az": "Performans qiymətləndirmədə əsas səriştəliklərdən istifadə olunur.",
+        "en": "Core competencies are used during performance evaluations.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 178,
+      "question": {
+        "az": "İstedadların idarəedilməsi proseslərində əsas səriştəliklər tətbiq olunur.",
+        "en": "Core competencies are used in talent management processes.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 179,
+      "question": {
+        "az": "Vəzifə dəyişikliyi zamanı səriştəliklər əsas götürülür.",
+        "en": "Core competencies are considered during career changes.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 180,
+      "question": {
+        "az": "Təlim və inkişaf planlamasında səriştəliklər əsas rol oynayır.",
+        "en": "Core competencies are used to guide training and development planning.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 181,
+      "question": {
+        "az": "Davamçıların planlanmasında səriştəliklər nəzərə alınır.",
+        "en": "Core competencies are used in succession planning.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 182,
+      "question": {
+        "az": "Təşviq və mükafatlandırma qərarlarında əsas səriştəliklər istifadə olunur.",
+        "en": "Core competencies are referenced in recognition and reward processes.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 183,
+      "question": {
+        "az": "Liderlik səriştəlikləri bütün rəhbər vəzifələr üçün müəyyən olunub.",
+        "en": "Leadership competencies are defined for all managerial positions.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 184,
+      "question": {
+        "az": "Liderlik səriştəlikləri işə qəbulda tətbiq olunur.",
+        "en": "Leadership competencies are applied in the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 185,
+      "question": {
+        "az": "Performans dəyərləndirmədə liderlik səriştəliklərindən istifadə olunur.",
+        "en": "Leadership competencies are used in performance evaluation.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 186,
+      "question": {
+        "az": "İstedadların idarəedilməsində liderlik səriştəlikləri tətbiq olunur.",
+        "en": "Leadership competencies are used in talent management.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 187,
+      "question": {
+        "az": "Karyera dəyişikliyində liderlik səriştəlikləri nəzərə alınır.",
+        "en": "Leadership competencies are considered in career transitions.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 188,
+      "question": {
+        "az": "Təlim ehtiyaclarının müəyyən edilməsində liderlik səriştələri nəzərə alınır.",
+        "en": "Leadership competencies are integrated into training need analyses.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 189,
+      "question": {
+        "az": "Davamçıların seçilməsində liderlik səriştəlikləri istifadə olunur.",
+        "en": "Leadership competencies are used in succession planning.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 190,
+      "question": {
+        "az": "Xüsusi iş ailələri üçün texniki səriştəliklər müəyyən olunmuşdur.",
+        "en": "Technical competencies are defined for specific job families and positions.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 191,
+      "question": {
+        "az": "Texniki səriştəliklər işə qəbulda istifadə olunur.",
+        "en": "Technical competencies are used in the recruitment process.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 192,
+      "question": {
+        "az": "Texniki səriştəliklər digər İR proseslərində istifadə olunur.",
+        "en": "Technical competencies are used in other HR processes.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 193,
+      "question": {
+        "az": "Səriştəliklər mütəmadi olaraq yenidən qiymətləndirilir.",
+        "en": "Competencies are reviewed and updated regularly.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 194,
+      "question": {
+        "az": "Təcrübədə 180/360 dərəcə səriştəlik qiymətləndirmə sistemi tətbiq olunur.",
+        "en": "180- or 360-degree feedback is used for competency assessments.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 195,
+      "question": {
+        "az": "İşçilərə səriştəlik səviyyələri ilə bağlı müntəzəm rəy verilir.",
+        "en": "Employees receive regular feedback regarding their competency levels.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 196,
+      "question": {
+        "az": "Səriştəliklərə əsaslanan inkişaf planları rəhbərlə birgə hazırlanır və rəsmi şəkildə sənədləşdirilir.",
+        "en": "Competency-based development plans are co-created with managers and formally documented.",
+        "ru": ""
+      },
+      "function_id": 9,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 197,
+      "question": {
+        "az": "Bütün vəzifələr üçün aktual və təsdiqlənmiş vəzifə təlimatları mövcuddur.",
+        "en": "Updated and approved job descriptions exist for all positions.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 198,
+      "question": {
+        "az": "Şirkətin bütün funksiyaları üzrə iş analizləri aparılmış və sənədləşdirilmişdir.",
+        "en": "Job analysis has been conducted and documented for all company functions.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 199,
+      "question": {
+        "az": "Hər bir funksiya üzrə optimal işçi sayı və tələbləri müəyyən edilmişdir.",
+        "en": "Optimal staffing requirements have been defined for each function.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 200,
+      "question": {
+        "az": "Təşkilatın strateji məqsədlərinə uyğun olaraq tələb olunacaq işçi sayı, kvalifikasiyalar və xərclər təyin edilərək işə qəbul planlamasına inteqrasiya olunur.",
+        "en": "Based on the organization's strategic objectives, required headcount, qualifications, and costs are identified and integrated into the recruitment planning.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 201,
+      "question": {
+        "az": "Əməliyyat planına uyğun insan resurslarının necə planlaşdırılacağı və işçi ehtiyatının necə inkişaf etdiriləcəyi aydın şəkildə müəyyən edilib.",
+        "en": "A clear framework exists for how human resources will be planned and workforce capacity developed according to the operational plan.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 202,
+      "question": {
+        "az": "Əməliyyat planı insan resursları planına necə çevriləcəyi və tələb olunan işçi resurslarının necə təyin ediləcəyi sənədləşdirilib.",
+        "en": "Detailed procedures are defined for translating the operational plan into a human resource plan and determining required staffing needs.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 203,
+      "question": {
+        "az": "İnsan resursları planlaşdırma prosesi necə optimallaşdırılacağı və strateji/əməliyyat planı ilə necə inteqrasiya ediləcəyi məlumdur və tətbiq edilir.",
+        "en": "The optimization of the human resource planning process and its integration with the strategic/operational plan is clearly understood and applied.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 204,
+      "question": {
+        "az": "İnsan resursları planlamasında potensial risklər (kadr çatışmazlığı, kritik bacarıq çatışmamazlığı) müəyyən edilir və risk planları hazırlanır.",
+        "en": "Potential risks in human resource planning (e.g., staff shortages, critical skill gaps) are identified and risk mitigation plans are developed.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 205,
+      "question": {
+        "az": "Kritik vəzifələr üçün insan resursları ehtiyat planlaması və əvəzetmə strategiyaları mövcuddur.",
+        "en": "Workforce contingency and replacement strategies are in place for critical positions.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 206,
+      "question": {
+        "az": "İnsan resursları planlamasında məlumatların analizi və proqnozlaşdırma alətlərindən istifadə olunur.",
+        "en": "Data analytics and forecasting tools are used in workforce planning.",
+        "ru": ""
+      },
+      "function_id": 10,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 207,
+      "question": {
+        "az": "Şirkətdə daxili kommunikasiya strategiyası mövcuddur və bu strategiya işçilərin ehtiyaclarını nəzərə alınaraq məqsədyönlü şəkildə tətbiq olunur.",
+        "en": "The company has an internal communication strategy that is purposefully implemented and tailored to employee needs.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 208,
+      "question": {
+        "az": "Daxili kommunikasiyaya cavabdeh müəyyən edilmiş mütəxəssis və ya struktur mövcuddur və onun rolu aydın şəkildə müəyyən edilib.",
+        "en": "A designated internal communication specialist or function exists, and their role is clearly defined.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 209,
+      "question": {
+        "az": "Daxili kommunikasiya vasitəsilə bütün vacib məlumatlar (elanlar, yeniliklər və s.) vaxtında, aydın şəkildə və hər bir işçiyə əlçatan formada paylaşılır.",
+        "en": "All important updates (e.g., announcements, changes, news) are communicated in a timely, clear, and accessible manner to all employees through internal channels.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 210,
+      "question": {
+        "az": "Rəhbərlik və işçilər arasında iki tərəfli ünsiyyəti təşviq edən mütəmadi görüşlər və tədbirlər daxili kommunikasiya vasitəsilə təşkil olunur.",
+        "en": "Two-way communication between leadership and employees is encouraged through regular meetings, events, or structured internal communication initiatives.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 211,
+      "question": {
+        "az": "İşçilərin tanınması və mükafatlandırılması üçün şəffaf, ədalətli və hər kəsə açıq bir proqram mövcuddur.",
+        "en": "A transparent, fair, and accessible employee recognition and reward program is in place.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 212,
+      "question": {
+        "az": "İşçilərin sosiallaşmasını və komanda ruhunu gücləndirən klub fəaliyyətləri və ya birgə tədbirlər həyata keçirilir.",
+        "en": "There are social clubs or team-building activities in place to foster employee engagement and strengthen team spirit.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 213,
+      "question": {
+        "az": "İşçilərin məmnunluğu, bağlılığı və ümumi əhval-ruhiyyəsi ilə bağlı dövri sorğular keçirilir və nəticələri əməkdaşlarla paylaşılır.",
+        "en": "Periodic surveys are conducted to measure employee satisfaction, engagement, and overall morale, and the results are shared with staff.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 214,
+      "question": {
+        "az": "Şirkət xəbərləri, işçilərlə bağlı yeniliklər və rəhbərliyin (və ya təsisçi) mesajları müntəzəm olaraq paylaşılır və işçilərin bu prosesə aktiv şəkildə cəlb olunması təşviq olunur.",
+        "en": "Company news, employee highlights, and leadership (or founder) messages are regularly communicated, and employee participation in internal communications is actively encouraged.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 215,
+      "question": {
+        "az": "Daxili kommunikasiya üçün istifadə olunan platformalar (e-mail, intranet, mesajlaşma sistemləri və s.) işçilər üçün əlçatan və effektivdir.",
+        "en": "Internal communication platforms (email, intranet, messaging tools, etc.) are accessible and effective for employees.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 216,
+      "question": {
+        "az": "İşçilərin rəy və təkliflərini bildirmələri üçün anonim və ya açıq platformalar mövcuddur və istifadə olunur.",
+        "en": "Channels (anonymous or open) exist for employees to provide feedback and suggestions, and they are actively used.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 217,
+      "question": {
+        "az": "Daxili kommunikasiya fəaliyyətlərinin effektivliyi işçilərin iştirak səviyyəsi və rəy əsasında mütəmadi olaraq qiymətləndirilir.",
+        "en": "The effectiveness of internal communication activities is regularly assessed based on employee engagement and feedback.",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 218,
+      "question": {
+        "az": "Təcili və fövqəladə hallarda (məsələn, kəskin dəyişikliklər, risklər və s.) effektiv daxili kommunikasiya mexanizmi mövcuddur.",
+        "en": "Effective internal communication mechanisms are in place for urgent and critical situations (e.g., organizational changes, emergencies, etc.).",
+        "ru": ""
+      },
+      "function_id": 11,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 219,
+      "question": {
+        "az": "İR strategiyası təşkilatın ümumi strateji planı ilə rəsmi şəkildə uyğunlaşdırılıb.",
+        "en": "The HR strategy is formally aligned with the organization’s overall strategic plan.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 220,
+      "question": {
+        "az": "Hər bir İR funksiyası üçün strateji məqsəd və performans göstəriciləri müəyyən edilib.",
+        "en": "Each HR function has defined strategic objectives and associated performance indicators.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 221,
+      "question": {
+        "az": "İR-ın illik fəaliyyət planları şirkətin əsas strateji hədəflərinə cavab verir.",
+        "en": "Annual HR action plans are developed based on corporate strategic goals.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 222,
+      "question": {
+        "az": "Strateji təşəbbüslərin (rəqəmsallaşma, ekspansiya, transformasiya və s.) İR resurs planlaması ilə dəstəklənməsi təmin edilir.",
+        "en": "Strategic initiatives (e.g., digitalization, expansion, transformation) are supported through corresponding HR workforce planning.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 223,
+      "question": {
+        "az": "İR rəhbərliyi strateji qərarvermə proseslərində iştirak edir.",
+        "en": "HR leaders are actively involved in strategic decision-making processes.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 224,
+      "question": {
+        "az": "İR tərəfindən strateji planın həyata keçirilməsi üzrə illik hesabat təqdim olunur.",
+        "en": "Annual strategic execution reports are prepared by HR and presented to executive leadership.",
+        "ru": ""
+      },
+      "function_id": 12,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 225,
+      "question": {
+        "az": "İnsan Resursları dəyişikliklərə (böyümə, restrukturizasiya) çevik cavab vermək üçün planlaşdırma modellərinə malikdir.",
+        "en": "HR planning includes models and tools to respond to organizational change (growth, restructuring, etc.) quickly.",
+        "ru": ""
+      },
+      "function_id": 13,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 226,
+      "question": {
+        "az": "Əməliyyat planında dəyişikliklər olduqda İR planı paralel şəkildə yenilənir.",
+        "en": "HR plans are updated in parallel when changes occur in the operational plan.",
+        "ru": ""
+      },
+      "function_id": 13,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 227,
+      "question": {
+        "az": "Təcili işçi tələbi və mövsümi artımlar üçün ehtiyat namizəd bazası mövcuddur.",
+        "en": "Contingency talent pools or flexible staffing approaches exist for urgent or seasonal workforce demands.",
+        "ru": ""
+      },
+      "function_id": 13,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 228,
+      "question": {
+        "az": "Yeni vəzifələr və rollar üçün İR tərəfindən çevik İR ehtiyac analizi  (iş yükü analizi, optimal işçi ehtiyacını və əmək haqqı büdcəsinin planlaması) həyata keçirilir.",
+        "en": "HR conducts agile FTE analysis for new roles and departments.",
+        "ru": ""
+      },
+      "function_id": 13,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 229,
+      "question": {
+        "az": "İR komandasının strukturunda çevik layihə əsaslı (project-based) resurs ayırma sistemi tətbiq edilir.",
+        "en": "The HR structure allows for temporary or project-based role allocations during peak demand or restructuring.",
+        "ru": ""
+      },
+      "function_id": 13,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 230,
+      "question": {
+        "az": "Kritik vəzifələr üçün risk xəritəsi (təşkilat daxilində insan resursları ilə bağlı potensial risklərin müəyyən edilməsi, qiymətləndirilməsi və vizuallaşdırılması üçün istifadə olunan alət) hazırlanıb və yenilənir.",
+        "en": "A formal HR risk map exists, identifying critical roles and associated risks.",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 231,
+      "question": {
+        "az": "Təşkilatda bacarıq çatışmamazlığı (işçinin və ya komandanın hazırda malik olduğu bacarıqlar ilə vəzifənin, təşkilatın və ya biznesin tələb etdiyi bacarıqlar arasında olan fərqdir) təhlil edilir və azaldılma planları hazırlanır.",
+        "en": "Skill gap assessments are conducted, and mitigation plans are in place.",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 232,
+      "question": {
+        "az": "İR proseslərinə dair qanuni uyğunluq və cərimə riskləri müəyyən edilir və izlənilir.",
+        "en": "Legal compliance risks in HR operations are tracked and managed.",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 233,
+      "question": {
+        "az": "İR riskləri üçün alternativ fəaliyyət planı təsbit olunmuşdur.",
+        "en": "Contingency plans are developed for key workforce risks (attrition, absenteeism, etc.).",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 234,
+      "question": {
+        "az": "İR risklərinin idarəedilməsi üzrə İR komandasının daxilində məsul şəxslər və protokollar mövcuddur.",
+        "en": "Designated HR personnel are responsible for risk monitoring and response.",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 235,
+      "question": {
+        "az": "İşçi dövriyyəsinin yüksək olduğu sahələr üçün konkret risk azaldıcı tədbirlər mövcuddur.",
+        "en": "Targeted mitigation strategies are applied in high-turnover or high-risk departments.",
+        "ru": ""
+      },
+      "function_id": 14,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 236,
+      "question": {
+        "az": "İR məlumat bazaları (işçi sayları, təlim, performans, dövriyyə və s.) analiz üçün uyğundur.",
+        "en": "HR databases (e.g., headcount, L&D, performance, attrition) are structured and analytics-ready.",
+        "ru": ""
+      },
+      "function_id": 15,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 237,
+      "question": {
+        "az": "İşçi dövriyyəsi və performansla bağlı proqnoz modelləri hazırlanıb və istifadə olunur.",
+        "en": "Predictive models exist to forecast employee turnover and performance trends.",
+        "ru": ""
+      },
+      "function_id": 15,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 238,
+      "question": {
+        "az": "Tələb olunan bacarıqlar və rollarla bağlı trend analitikası aparılır.",
+        "en": "Trend analysis is conducted to identify emerging role and skill requirements.",
+        "ru": ""
+      },
+      "function_id": 15,
+      "type": [
+        "standart",
+        "premium"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 239,
+      "question": {
+        "az": "İR tərəfindən hazırlanmış proqnoz modelləri rəhbərliyə təqdim olunur və qərarlara təsir edir.",
+        "en": "Forecasting reports from HR analytics are presented to leadership and used in planning.",
+        "ru": ""
+      },
+      "function_id": 15,
+      "type": [
+        "premium"
+      ],
+      "priority": 3
+    },
+    {
+      "id": 240,
+      "question": {
+        "az": "İR analitika nəticələri təlim planlaması, işə qəbul və motivasiya sistemlərinə inteqrasiya edilir.",
+        "en": "Insights from HR analytics are integrated into learning, recruitment, and reward systems.",
+        "ru": ""
+      },
+      "function_id": 15,
+      "type": [
+        "basic",
+        "standart",
+        "premium"
+      ],
+      "priority": 1
+    }
+  ]
+}
