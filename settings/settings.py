@@ -2,7 +2,10 @@ import os
 from datetime import timedelta
 from pathlib import Path
 
+import dj_database_url
+import django_heroku
 import environ
+from django.core.files.storage import storages
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -14,10 +17,10 @@ DEBUG = env("DEBUG", default=False)
 if DEBUG:
     ALLOWED_HOSTS = ["*"]
 else:
-    ALLOWED_HOSTS = []
+    ALLOWED_HOSTS = ["hrdio.vercel.app"]
 
-CORS_ALLOWED_ORIGINS = ["*"]
-CSRF_TRUSTED_ORIGINS = ["*"]
+CORS_ALLOWED_ORIGINS = ["http://localhost:3000", "https://hrdio.vercel.app"]
+CSRF_TRUSTED_ORIGINS = ["https://hrdio.vercel.app"]
 
 
 CORS_ALLOW_METHODS = [
@@ -41,6 +44,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
+    "analysis",
 ]
 
 SESSION_ENGINE = "django.contrib.sessions.backends.db"
@@ -84,12 +88,22 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "settings.wsgi.application"
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+# Database
+
+if DEBUG:
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.sqlite3",
+            "NAME": BASE_DIR / "db.sqlite3",
+        }
     }
-}
+else:
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.postgresql_psycopg2",
+        }
+    }
+
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -106,12 +120,26 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+SIMPLE_JWT = {
+    "AUTH_HEADER_TYPES": ("JWT",),
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=60),
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=1),
+    "AUTH_TOKEN_CLASSES": ("rest_framework_simplejwt.tokens.AccessToken",),
+}
+
 
 MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 STATIC_URL = "/static/"
 STATIC_ROOT = BASE_DIR / "staticfiles"
 STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
+
+
+if DEBUG == False:
+    STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+    WHITENOISE_MANIFEST_STRICT = False
+    django_heroku.settings(locals())
+
 
 SIMPLE_JWT = {
     "AUTH_HEADER_TYPES": ("JWT",),

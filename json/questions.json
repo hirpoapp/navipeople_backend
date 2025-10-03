@@ -175,7 +175,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -190,7 +190,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -205,7 +205,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -219,7 +219,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -234,7 +234,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -248,7 +248,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -262,7 +262,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -276,7 +276,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -290,7 +290,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -304,7 +304,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -312,14 +312,14 @@
     {
       "id": 11,
       "question": {
-        "az": "Performansın idarə edilməsi üçün standart təqvim mövcuddur",
+        "az": "Performansın idarə edilməsi üçün standard təqvim mövcuddur",
         "en": "A standard calendar exists for the performance management process.",
         "ru": "Существует стандартный календарь процесса управления эффективностью."
       },
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -333,7 +333,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -347,7 +347,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -362,7 +362,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -376,7 +376,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -390,7 +390,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -404,7 +404,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -418,7 +418,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -432,7 +432,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -446,7 +446,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -461,7 +461,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -476,7 +476,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -490,7 +490,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -505,7 +505,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -519,7 +519,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -599,7 +599,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -614,7 +614,7 @@
       "function_id": 1,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -628,7 +628,7 @@
       },
       "function_id": 1,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -668,7 +668,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -682,7 +682,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -696,7 +696,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -711,7 +711,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -739,7 +739,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -753,7 +753,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -767,7 +767,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -781,7 +781,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -796,7 +796,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -811,7 +811,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -826,7 +826,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -841,7 +841,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -856,7 +856,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -864,13 +864,13 @@
     {
       "id": 50,
       "question": {
-        "az": "Bütün iş təklifləri üçün standart iş təklifi formalarından istifadə olunur.",
+        "az": "Bütün iş təklifləri üçün standard iş təklifi formalarından istifadə olunur.",
         "en": "Standard job offer templates are used for all offers.",
         "ru": ""
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -885,7 +885,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -899,7 +899,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -914,7 +914,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -929,7 +929,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -943,7 +943,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -957,7 +957,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -985,7 +985,7 @@
       "function_id": 2,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1012,7 +1012,7 @@
       },
       "function_id": 2,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1027,7 +1027,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1042,7 +1042,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1057,7 +1057,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1072,7 +1072,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1086,7 +1086,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1100,7 +1100,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1115,7 +1115,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1129,7 +1129,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1143,7 +1143,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1157,7 +1157,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1171,7 +1171,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1185,7 +1185,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1225,7 +1225,7 @@
       },
       "function_id": 3,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1240,7 +1240,7 @@
       "function_id": 3,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1268,7 +1268,7 @@
       "function_id": 4,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1283,7 +1283,7 @@
       "function_id": 4,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1298,7 +1298,7 @@
       "function_id": 4,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1312,7 +1312,7 @@
       },
       "function_id": 4,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1326,7 +1326,7 @@
       },
       "function_id": 4,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1340,7 +1340,7 @@
       },
       "function_id": 4,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1380,7 +1380,7 @@
       },
       "function_id": 4,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1395,7 +1395,7 @@
       "function_id": 4,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1410,7 +1410,7 @@
       "function_id": 4,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1425,7 +1425,7 @@
       "function_id": 5,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1453,7 +1453,7 @@
       "function_id": 5,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1467,7 +1467,7 @@
       },
       "function_id": 5,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1481,7 +1481,7 @@
       },
       "function_id": 5,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1495,7 +1495,7 @@
       },
       "function_id": 5,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1535,7 +1535,7 @@
       },
       "function_id": 5,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1550,7 +1550,7 @@
       "function_id": 5,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1564,7 +1564,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1572,14 +1572,14 @@
     {
       "id": 100,
       "question": {
-        "az": "Standart əmək haqqı idarəetmə siyasəti mövcuddur və düzgün tətbiq olunur.",
+        "az": "Standard əmək haqqı idarəetmə siyasəti mövcuddur və düzgün tətbiq olunur.",
         "en": "A standard salary administration policy exists and is properly implemented.",
         "ru": ""
       },
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1594,7 +1594,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1609,7 +1609,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1624,7 +1624,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1638,7 +1638,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1652,7 +1652,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1667,7 +1667,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1681,7 +1681,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1696,7 +1696,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1710,7 +1710,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1724,7 +1724,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1739,7 +1739,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1753,7 +1753,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1767,7 +1767,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1795,7 +1795,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1809,7 +1809,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1823,7 +1823,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1877,7 +1877,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1891,7 +1891,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1906,7 +1906,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1920,7 +1920,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1935,7 +1935,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1950,7 +1950,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1964,7 +1964,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -1979,7 +1979,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -1994,7 +1994,7 @@
       "function_id": 6,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2008,7 +2008,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2022,7 +2022,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2036,7 +2036,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2050,7 +2050,7 @@
       },
       "function_id": 6,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2091,7 +2091,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2106,7 +2106,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2121,7 +2121,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2136,7 +2136,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2150,7 +2150,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2165,7 +2165,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2179,7 +2179,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2193,7 +2193,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2220,7 +2220,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2234,7 +2234,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2249,7 +2249,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2277,7 +2277,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2291,7 +2291,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2305,7 +2305,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2319,7 +2319,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2359,7 +2359,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2373,7 +2373,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2413,7 +2413,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2427,7 +2427,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2454,7 +2454,7 @@
       },
       "function_id": 7,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2469,7 +2469,7 @@
       "function_id": 7,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2484,7 +2484,7 @@
       "function_id": 8,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2499,7 +2499,7 @@
       "function_id": 8,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2514,7 +2514,7 @@
       "function_id": 8,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2529,7 +2529,7 @@
       "function_id": 8,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2543,7 +2543,7 @@
       },
       "function_id": 8,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2557,7 +2557,7 @@
       },
       "function_id": 8,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2572,7 +2572,7 @@
       "function_id": 8,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2586,7 +2586,7 @@
       },
       "function_id": 8,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2613,7 +2613,7 @@
       },
       "function_id": 8,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2627,7 +2627,7 @@
       },
       "function_id": 8,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2642,7 +2642,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2657,7 +2657,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2672,7 +2672,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2687,7 +2687,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2702,7 +2702,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2717,7 +2717,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2732,7 +2732,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2746,7 +2746,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2760,7 +2760,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2774,7 +2774,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2788,7 +2788,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2802,7 +2802,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2816,7 +2816,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2830,7 +2830,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2844,7 +2844,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2858,7 +2858,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2873,7 +2873,7 @@
       "function_id": 9,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2887,7 +2887,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2901,7 +2901,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2928,7 +2928,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2942,7 +2942,7 @@
       },
       "function_id": 9,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -2957,7 +2957,7 @@
       "function_id": 10,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2972,7 +2972,7 @@
       "function_id": 10,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -2987,7 +2987,7 @@
       "function_id": 10,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3001,7 +3001,7 @@
       },
       "function_id": 10,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3054,7 +3054,7 @@
       },
       "function_id": 10,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3068,7 +3068,7 @@
       },
       "function_id": 10,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3082,7 +3082,7 @@
       },
       "function_id": 10,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3097,7 +3097,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3112,7 +3112,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3127,7 +3127,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3141,7 +3141,7 @@
       },
       "function_id": 11,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3155,7 +3155,7 @@
       },
       "function_id": 11,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3169,7 +3169,7 @@
       },
       "function_id": 11,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3184,7 +3184,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3199,7 +3199,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3214,7 +3214,7 @@
       "function_id": 11,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3268,7 +3268,7 @@
       "function_id": 12,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3283,7 +3283,7 @@
       "function_id": 12,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3297,7 +3297,7 @@
       },
       "function_id": 12,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3324,7 +3324,7 @@
       },
       "function_id": 12,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3338,7 +3338,7 @@
       },
       "function_id": 12,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3353,7 +3353,7 @@
       "function_id": 13,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3368,7 +3368,7 @@
       "function_id": 13,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3382,7 +3382,7 @@
       },
       "function_id": 13,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3396,7 +3396,7 @@
       },
       "function_id": 13,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3436,7 +3436,7 @@
       },
       "function_id": 14,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3451,7 +3451,7 @@
       "function_id": 14,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3466,7 +3466,7 @@
       "function_id": 14,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3480,7 +3480,7 @@
       },
       "function_id": 14,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3494,7 +3494,7 @@
       },
       "function_id": 14,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3509,7 +3509,7 @@
       "function_id": 15,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
@@ -3523,7 +3523,7 @@
       },
       "function_id": 15,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3537,7 +3537,7 @@
       },
       "function_id": 15,
       "type": [
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 2
@@ -3565,7 +3565,7 @@
       "function_id": 15,
       "type": [
         "basic",
-        "standart",
+        "standard",
         "premium"
       ],
       "priority": 1
