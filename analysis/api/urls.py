@@ -9,4 +9,7 @@ urlpatterns = [
     path("questions/<str:invoice_uid>", QuestionsView.as_view(), name="questions"),
     path("start/<str:invoice_uid>", AnswerView.as_view(), name="submit_answers"),
     path("result/<str:invoice_uid>", ResultsView.as_view(), name="results"),
+    path(
+        "export/<str:invoice_uid>", DownloadResultsView.as_view(), name="export_results"
+    ),
 ]

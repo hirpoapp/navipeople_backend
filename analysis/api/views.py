@@ -1,16 +1,17 @@
 import json
-from django.http import HttpResponse as HTTPResponse
 
-from analysis.models import Answer, Assessment, Function, Invoice, Plan, Question
+from django.http import HttpResponse as HTTPResponse
+from rest_framework import status
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from .utils import queryset_to_xlxs
+
 from analysis.api.serializers import (
     AssessmentResultsSerializer,
     InvoiceSerializer,
     QuestionSerializer,
 )
-from rest_framework.views import APIView
-from rest_framework import status
-from rest_framework.response import Response
-
+from analysis.models import Answer, Assessment, Function, Invoice, Plan, Question
 
 # JSON-u oxumaq (məsələn fayldan)
 with open("json/questions.json", "r", encoding="utf-8") as f:
@@ -121,3 +122,43 @@ class ResultsView(APIView):
 
         serializer = AssessmentResultsSerializer(assessment)
         return Response(serializer.data, status=status.HTTP_200_OK)
+
+
+class DownloadResultsView(APIView):
+    def get(self, request, invoice_uid):
+        """
+        Retrieve assessment results for the given invoice and return them as an XLSX file.
+        Returns 404 if either the Invoice or its Assessment does not exist.
+        """
+        try:
+            invoice = Invoice.objects.get(uid=invoice_uid)
+            assessment = Assessment.objects.get(invoice=invoice)
+        except (Invoice.DoesNotExist, Assessment.DoesNotExist):
+            return Response(
+                {"error": "Invoice or Assessment not found."},
+                status=status.HTTP_404_NOT_FOUND,
+            )
+
+        serializer = AssessmentResultsSerializer(assessment)
+        rows = []
+        results = serializer.data.get("functions") or []
+        for result in results:            
+            distribution = result.get("distribution") or {}
+            function_name_value = result.get("function_name")
+            function_name = (
+                function_name_value.get("en", "") if isinstance(function_name_value, dict) else (function_name_value or "")
+            )
+
+            row = {
+                "Function Name": function_name,
+                "Total Questions": result.get("total_questions", 0),
+                "Not Applicable": distribution.get("1", 0),
+                "Not Implemented": distribution.get("2", 0),
+                "Partially Implemented": distribution.get("3", 0),
+                "Implemented and Functioning": distribution.get("4", 0),
+                "Systematic and Innovative Implementation": distribution.get("5", 0),
+                "Result": result.get("total_score", 0),
+            }
+            rows.append(row)
+
+        return queryset_to_xlxs(rows, f"diagnosis_results_{invoice_uid}.xlsx")

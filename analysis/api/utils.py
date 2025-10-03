@@ -1,9 +1,12 @@
+import io
 from collections import Counter
 from typing import Dict, List
 
+import pandas as pd
+from django.http import HttpResponse
+
 from analysis.choices import ANSWERS_CHOICES
 from analysis.models import Function
-
 
 SCORE_MAP: Dict[int, int] = {1: 0, 2: 25, 3: 50, 4: 75, 5: 100}
 SENTIMENT_MAP: Dict[int, str] = {
@@ -159,3 +162,18 @@ def build_assessment_results(assessment):
             },
         },
     }
+
+
+def queryset_to_xlxs(rows, name):
+    df = pd.DataFrame(rows)
+    output = io.BytesIO()
+    with pd.ExcelWriter(output, engine="openpyxl") as writer:
+        df.to_excel(writer, index=False, sheet_name="Performance")
+
+    output.seek(0)
+    response = HttpResponse(
+        output.read(),
+        content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    )
+    response["Content-Disposition"] = f"attachment; filename={name}.xlsx"
+    return response
