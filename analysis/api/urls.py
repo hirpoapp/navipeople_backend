@@ -12,4 +12,5 @@ urlpatterns = [
     path(
         "export/<str:invoice_uid>", DownloadResultsView.as_view(), name="export_results"
     ),
+    path("export-results/<str:invoice_uid>", ExportAnswersView.as_view(), name="export_results"),
 ]

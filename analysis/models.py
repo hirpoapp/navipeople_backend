@@ -71,6 +71,9 @@ class Answer(models.Model):
 
     def __str__(self):
         return f"Answer to {self.question} - {self.get_response_display()}"
+    
+    def get_response_display(self):
+        return dict(ANSWERS_CHOICES).get(self.response, "Unknown")
 
 
 class Assessment(models.Model):

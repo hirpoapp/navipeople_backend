@@ -36,6 +36,11 @@ class AnswerSerializer(serializers.ModelSerializer):
         model = Answer
         fields = "__all__"
 
+    def to_representation(self, instance):
+        representation = super().to_representation(instance)
+        representation["question"] = QuestionSerializer(instance.question).data
+        return representation
+
 
 class AssessmentResultsSerializer(serializers.Serializer):
     def to_representation(self, assessment):

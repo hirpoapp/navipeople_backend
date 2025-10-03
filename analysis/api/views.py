@@ -10,6 +10,7 @@ from analysis.api.serializers import (
     AssessmentResultsSerializer,
     InvoiceSerializer,
     QuestionSerializer,
+    AnswerSerializer,
 )
 from analysis.models import Answer, Assessment, Function, Invoice, Plan, Question
 
@@ -142,11 +143,13 @@ class DownloadResultsView(APIView):
         serializer = AssessmentResultsSerializer(assessment)
         rows = []
         results = serializer.data.get("functions") or []
-        for result in results:            
+        for result in results:
             distribution = result.get("distribution") or {}
             function_name_value = result.get("function_name")
             function_name = (
-                function_name_value.get("en", "") if isinstance(function_name_value, dict) else (function_name_value or "")
+                function_name_value.get("en", "")
+                if isinstance(function_name_value, dict)
+                else (function_name_value or "")
             )
 
             row = {
@@ -162,3 +165,29 @@ class DownloadResultsView(APIView):
             rows.append(row)
 
         return queryset_to_xlxs(rows, f"diagnosis_results_{invoice_uid}.xlsx")
+
+
+class ExportAnswersView(APIView):
+    def get(self, request, invoice_uid):
+        try:
+            invoice = Invoice.objects.get(uid=invoice_uid)
+        except Invoice.DoesNotExist:
+            return Response({"error": "Invoice not found."}, status=status.HTTP_404_NOT_FOUND)
+
+        answers = (
+            Answer.objects.filter(invoice=invoice)
+            .select_related("question__function")
+            .order_by("-question__function__id", "question__id")
+        )
+
+        rows = [
+            {
+                "Question": getattr(a.question, "en", "") if a.question else "",
+                "Function": getattr(a.question.function, "en", "") if (a.question and a.question.function) else "",
+                "Answer": a.get_response_display(),
+            }
+            for a in answers
+        ]
+
+        filename = f"answers_{invoice_uid}.xlsx"
+        return queryset_to_xlxs(rows, filename)
